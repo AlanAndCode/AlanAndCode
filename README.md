@@ -35,7 +35,7 @@
   <tr>
     <td>
       <p>
-        <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alanandcode)](https://git.io/streak-stats)" alt="luizcorrea-dev" /></p>
+        <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alanandcode&locale=pt_BR)](https://git.io/streak-stats)" alt="luizcorrea-dev" /></p>
     </td>
   </tr>
 </thead>
@@ -56,9 +56,9 @@
     <a href="mailto:alan.andersonbr@gmail.com?subject=Hello" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="alan.andersonbr@gmail.com" height="30" width="40" /></a>
     alan.andersonbr@gmail.com              
 <a href="https://linkedin.com/in/alanderson01" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizbatistacorrea" height="30" width="40" /></a>
-<a href="https://www.urionlinejudge.com.br/judge/pt/profile/553597" target="blank"><img align="right" src="https://www.inf.ufpr.br/laps15/img/uri.png" alt="luizcorrea_dev" height="40" width="50" /></a>
 
-    <a href="https://api.whatsapp.com/send?phone=5521996078594&text=Ol%C3%A1%20 Alan, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://image.flaticon.com/icons/png/512/220/220236.png" alt="WhatsApp +5511998928959"  height="35" width="40"/> 
+
+    <a href="https://api.whatsapp.com/send?phone=21996078594&text=Ol%C3%A1%20 Alan, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://image.flaticon.com/icons/png/512/220/220236.png" alt="WhatsApp +5511998928959"  height="35" width="40"/> 
 </p>
 
 
@@ -81,7 +81,7 @@
        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-       <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a></p>
+       <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 
 
