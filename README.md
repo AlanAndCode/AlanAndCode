@@ -35,7 +35,7 @@
   <tr>
     <td>
       <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alanandcode-dev&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&background=151A28" alt="luizcorrea-dev" /></p>
+        <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alanandcode)](https://git.io/streak-stats)" alt="luizcorrea-dev" /></p>
     </td>
   </tr>
 </thead>
