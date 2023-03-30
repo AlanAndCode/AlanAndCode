@@ -26,16 +26,16 @@
 <thead>
   <tr>
     <td rowspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizcorrea-dev&show_icons=true&locale=en&layout=full&theme=ocean_dark&langs_count=8" alt="luizcorrea-dev" />    
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanandcpde-dev&show_icons=true&locale=en&layout=full&theme=ocean_dark&langs_count=8" alt="alan" />    
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizcorrea-dev&show_icons=true&locale=en&theme=ocean_dark" alt="luizcorrea-dev" /</p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alanandcode-dev&show_icons=true&locale=en&theme=ocean_dark" alt="luizcorrea-dev" /</p>
     </td>
   </tr>
   <tr>
     <td>
       <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=luizcorrea-dev&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&background=151A28" alt="luizcorrea-dev" /></p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alanandcode-dev&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&background=151A28" alt="luizcorrea-dev" /></p>
     </td>
   </tr>
 </thead>
@@ -48,17 +48,17 @@
 
 <p align="center">
 <a href="https://drive.google.com/file/d/1gI4BsKRlxvOpp98LLH7Kcby-TuijtgkI/view?usp=sharing" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5cb64060809d8e5058ea92ba/1613674594197-81FFVNXINMVB9J11IUU9/resume+button.png" alt="resume" height="40" /> </a> 
-<a href="https://luizcorrea-dev.github.io/" target="_blank"> <img src="https://static.wixstatic.com/media/054863_720942f182b044ebbcb661156045050f~mv2.png/v1/fill/w_560,h_212,al_c,q_85,usm_0.66_1.00_0.01/Portfolio_Button.webp" alt="resume" height="40" /> </a> 
+
 </p>
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
-    <a href="mailto:correa.luizbatista@gmail.com?subject=Hello" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="alan.andersonbr@gmail.com" height="30" width="40" /></a>
+    <a href="mailto:alan.andersonbr@gmail.com?subject=Hello" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="alan.andersonbr@gmail.com" height="30" width="40" /></a>
     alan.andersonbr@gmail.com              
 <a href="https://linkedin.com/in/alanderson01" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizbatistacorrea" height="30" width="40" /></a>
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/553597" target="blank"><img align="right" src="https://www.inf.ufpr.br/laps15/img/uri.png" alt="luizcorrea_dev" height="40" width="50" /></a>
 
-    <a href="https://api.whatsapp.com/send?phone=5521996078594&text=Ol%C3%A1%20 Luiz, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://image.flaticon.com/icons/png/512/220/220236.png" alt="WhatsApp +5511998928959"  height="35" width="40"/> 
+    <a href="https://api.whatsapp.com/send?phone=5521996078594&text=Ol%C3%A1%20 Alan, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://image.flaticon.com/icons/png/512/220/220236.png" alt="WhatsApp +5511998928959"  height="35" width="40"/> 
 </p>
 
 
@@ -98,5 +98,3 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=luizcorrea-dev&label=Profile%20views&color=0e75b6&style=flat" alt="luizcorrea-dev" /> 
-</p>
