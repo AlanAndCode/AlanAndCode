@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQHegVzeb863Jw/profile-displaybackgroundimage-shrink_200_800/0/1641155011706?e=1647475200&v=beta&t=SXoSsRIlvIZl4BMTfLle0zhbzSmJXFd4MDv-qSDeg7w" />
-</p>
-
-
-
    <p align="left">
 <h2>Idioma
        <a href="https://github.com/AlanAndCode/blob/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" alt="English" width="40" height="20"/> </a>
