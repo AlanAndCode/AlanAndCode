@@ -44,7 +44,7 @@
 
 
 <p align="center">
-<a href="https://drive.google.com/file/d/1gI4BsKRlxvOpp98LLH7Kcby-TuijtgkI/view?usp=sharing" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5cb64060809d8e5058ea92ba/1613674594197-81FFVNXINMVB9J11IUU9/resume+button.png" alt="resume" height="40" /> </a> 
+<a href="https:" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5cb64060809d8e5058ea92ba/1613674594197-81FFVNXINMVB9J11IUU9/resume+button.png" alt="resume" height="40" /> </a> 
 
 </p>
 
