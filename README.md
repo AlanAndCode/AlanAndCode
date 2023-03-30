@@ -6,8 +6,8 @@
 
    <p align="left">
 <h2>Idioma
-       <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" alt="English" width="40" height="20"/> </a>
-     <a href="https://github.com/LuizCorrea-Dev/LuizCorrea-Dev/blob/main/README-ES.md"> <img src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="Spanish" width="40" height="20"/> </a></h2></p>
+       <a href="https://github.com/AlanAndCode/blob/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" alt="English" width="40" height="20"/> </a>
+     <a href="https://github.com/AlanAndCode/blob/main/README-ES.md"> <img src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="Spanish" width="40" height="20"/> </a></h2></p>
 
 
 
@@ -18,24 +18,21 @@
 </h4>
 
 
-
-<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&no-frame=true&row=1&column=7" alt="luizcorrea-dev" /></a> </p>
-
 <p>
 <table  border="0">
 <thead>
   <tr>
     <td rowspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanandcpde-dev&show_icons=true&locale=en&layout=full&theme=ocean_dark&langs_count=8" alt="alan" />    
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanandcode&show_icons=true&locale=en&layout=full&theme=ocean_dark&langs_count=8" alt="alanandcode" />    
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alanandcode-dev&show_icons=true&locale=en&theme=ocean_dark" alt="luizcorrea-dev" /</p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alanandcode&show_icons=true&locale=en&theme=ocean_dark" alt="alanandcode" /</p>
     </td>
   </tr>
   <tr>
     <td>
       <p>
-        <img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alanandcode&locale=pt_BR)](https://git.io/streak-stats)" alt="luizcorrea-dev" /></p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alanandcode&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&background=151A28"   alt="alanandcode" /></p>
     </td>
   </tr>
 </thead>
@@ -56,9 +53,7 @@
     <a href="mailto:alan.andersonbr@gmail.com?subject=Hello" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="alan.andersonbr@gmail.com" height="30" width="40" /></a>
     alan.andersonbr@gmail.com              
 <a href="https://linkedin.com/in/alanderson01" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizbatistacorrea" height="30" width="40" /></a>
-
-
-    <a href="https://api.whatsapp.com/send?phone=21996078594&text=Ol%C3%A1%20 Alan, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://image.flaticon.com/icons/png/512/220/220236.png" alt="WhatsApp +5511998928959"  height="35" width="40"/> 
+    <a href="https://api.whatsapp.com/send?phone=5521996078594&text=Ol%C3%A1%20 Luiz, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://image.flaticon.com/icons/png/512/220/220236.png" alt="WhatsApp +5521996078594"  height="35" width="40"/> 
 </p>
 
 
@@ -73,7 +68,6 @@
         <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="80" height="80"/></a> 
         <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="80" height="80"/></a> 
      
-	</p>
 
 
 <h2>Database</h2>
@@ -88,8 +82,6 @@
 
 <h2>Softwares</h2>
 <p align="left">
-
- 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>	</p>
 
