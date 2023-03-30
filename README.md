@@ -17,6 +17,7 @@
 <h4 align="center">Além da minha base de conhecimento, busco ativamente melhorar ainda mais minha linguagem preferida e novas tecnologias e me mantenho atualizado sobre as tendências e avanços do setor. Adoro aprender sobre novas tecnologias, quais problemas elas estão resolvendo e como posso usá-los para criar produtos melhores e escaláveis.
 </h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alanandcode&label=Profile%20views&color=0e75b6&style=flat" alt="alanandcode" /> </p>
 
 <p>
 <table  border="0">
@@ -83,9 +84,10 @@
 <h2>Softwares</h2>
 <p align="left">
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>	</p>
-
-
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a>
+	</p>
 
 
 
