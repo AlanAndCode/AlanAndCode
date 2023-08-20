@@ -12,13 +12,13 @@
 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanandcode&label=Profile%20views&color=0e75b6&style=flat" alt="alanandcode" /> </p>
-
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=alanandcode&theme=darkhub&no-frame=true&row=1&column=7" alt="alanandcode" /></a> </p>
 <p>
 <table  border="0">
 <thead>
   <tr>
     <td rowspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanandcode&show_icons=true&locale=en&layout=full&theme=ocean_dark&langs_count=8" alt="alanandcode" />    
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandcode&layout=donut-vertical" alt="alanandcode" />    
     </td>
     <td>
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alanandcode&show_icons=true&locale=en&theme=ocean_dark" alt="alanandcode" /</p>
@@ -48,7 +48,7 @@
     <a href="mailto:alan.andersonbr@gmail.com?subject=Hello" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="alan.andersonbr@gmail.com" height="30" width="40" /></a>
     alan.andersonbr@gmail.com              
 <a href="https://linkedin.com/in/alanderson01" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanandcode" height="30" width="40" /></a>
-    <a href="https://api.whatsapp.com/send?phone=5521996078594&text=Ol%C3%A1%20 Alan, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://image.flaticon.com/icons/png/512/220/220236.png" alt="WhatsApp +5521996078594"  height="35" width="40"/> 
+    <a href="https://api.whatsapp.com/send?phone=5521996078594&text=Ol%C3%A1%20 Alan, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://www.flaticon.com/free-icon/whatsapp_124034" alt="WhatsApp +5521996078594"  height="35" width="40"/> 
 </p>
 
 
