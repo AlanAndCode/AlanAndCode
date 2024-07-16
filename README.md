@@ -10,7 +10,6 @@
 <h4>Criar aplicativos modernos e fáceis de usar é realmente uma paixão minha. Meus projetos atualmente de app sao em Kotlin, Java e utilizando bacnos Sqlite, Firebase e etc, tenho projetos osbre Back-end tambem utilizando bancos de dados como SQL, PostGrees. tambem ja utilizei outras tecnoligas como Aws, docker.</h4>
 <h4 align="center">Além da minha base de conhecimento, busco ativamente melhorar ainda mais minha linguagem preferida e novas tecnologias e me mantenho atualizado sobre as tendências e avanços do setor. Adoro aprender sobre novas tecnologias, quais problemas elas estão resolvendo e como posso usá-los para criar produtos melhores e escaláveis.
 </h4>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanandcode&label=Profile%20views&color=0e75b6&style=flat" alt="alanandcode" /> </p>
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=alanandcode&theme=darkhub&no-frame=true&row=1&column=7" alt="alanandcode" /></a> </p>
 <p>
@@ -18,7 +17,6 @@
 <thead>
   <tr>
     <td rowspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandcode&layout=donut-vertical" alt="alanandcode" />    
     </td>
     <td>
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alanandcode&show_icons=true&locale=en&theme=ocean_dark" alt="alanandcode" /</p>
