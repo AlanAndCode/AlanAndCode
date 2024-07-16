@@ -17,7 +17,6 @@
 <thead>
   <tr>
     <td rowspan="2">
-	    	          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanandcode&layout=donut-vertical" alt="alanandcode" />    
     </td>
     <td>
       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alanandcode&show_icons=true&locale=en&theme=ocean_dark" alt="alanandcode" /</p>
