@@ -1,4 +1,4 @@
-a   <p align="left">
+ <p align="left">
 <h2>Idioma
        <a href="https://github.com/AlanAndCode/blob/main/README-EN.md"> <img src="https://www.worldometers.info/img/flags/small/tn_us-flag.gif" alt="English" width="40" height="20"/> </a>
      <a href="https://github.com/AlanAndCode/blob/main/README-ES.md"> <img src="https://www.worldometers.info/img/flags/sp-flag.gif" alt="Spanish" width="40" height="20"/> </a></h2></p>
