@@ -15,7 +15,7 @@
   <tr>
     <td>
       <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alanandcode&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&background=151A28"   alt="alanandcode" /></p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=alanandcode&theme=neon-palenight&date_format=j%20M%5B%20Y%5D&background=151A28"  alt="alanandcode" /></p>
     </td>
   </tr>
 </thead>
@@ -27,11 +27,7 @@
     <a href="mailto:alan.andersonbr@gmail.com?subject=Hello" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="alan.andersonbr@gmail.com" height="30" width="40" /></a>
     alan.andersonbr@gmail.com              
 <a href="https://linkedin.com/in/alanderson01" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alanandcode" height="30" width="40" /></a>
-    <a href="https://api.whatsapp.com/send?phone=5521996078594&text=Ol%C3%A1%20 Alan, tudo bem? Verifiquei o seu perfil e gostaria de iniciar uma conversa." target="blank" ><img align="right"src="https://www.flaticon.com/free-icon/whatsapp_124034" alt="WhatsApp +5521996078594"  height="35" width="40"/> 
 </p>
-
-
-
 
 ------
 
