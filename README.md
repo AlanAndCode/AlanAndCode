@@ -22,15 +22,6 @@
 </table>
 </p>
 
-
-
-
-
-<p align="center">
-<a href="https:" target="_blank"> <img src="https://images.squarespace-cdn.com/content/v1/5cb64060809d8e5058ea92ba/1613674594197-81FFVNXINMVB9J11IUU9/resume+button.png" alt="resume" height="40" /> </a> 
-
-</p>
-
 <h3 align="left">Contate-me:</h3>
 <p align="left">
     <a href="mailto:alan.andersonbr@gmail.com?subject=Hello" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="alan.andersonbr@gmail.com" height="30" width="40" /></a>
