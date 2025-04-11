@@ -84,7 +84,7 @@ Atualmente, sou **Desenvolvedor iOS na Globo**, contribuindo em aplicativos usad
 |--------|-----------|-------------|
 | [MarketList](https://github.com/AlanAndCode/MarketList) | Lista de compras com gerenciamento de estoque e notificações. | SwiftUI, MVVM, UserDefaults |
 | [FollowersGitHub](https://github.com/AlanAndCode/FollowersGitHub) | App que busca e exibe seguidores de um usuário do GitHub com paginação, favoritos e navegação entre telas. | UIKit, URLSession, Auto Layout programático, UserDefaults, Codable | 
-| [Nome do open source se tiver] | Pode ser um desafio ou ferramenta. | Swift / Kotlin |
+| [REST API com Spring Boot](https://github.com/AlanAndCode/rest-api-with-spring-boot) | API RESTful para gerenciamento de clientes, demonstrando integração back-end com Kotlin e Spring. | Kotlin, Spring Boot, Spring Data JPA, H2 Database |
 
 ---
 
