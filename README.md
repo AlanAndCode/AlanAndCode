@@ -3,7 +3,7 @@
 
 ---
 
-🎯 **Sobre mim**
+## 🎯 SOBRE MIM
 
 Sou um desenvolvedor mobile com foco no ecossistema Apple, criando experiências fluidas com **Swift** e **SwiftUI**. Tenho experiência com:
 
@@ -36,35 +36,33 @@ Atualmente, sou **Desenvolvedor iOS na Globo**, contribuindo em aplicativos usad
 
 ---
 
-🚀 **Tecnologias que uso no dia a dia**
+## 🚀 TECNOLOGIAS QUE USO NO DIA A DIA
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="60" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" title="Swift"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="60" title="Xcode"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" title="Firebase"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" title="CoreData"/>
 </div>
 
 ---
 
-📱 **Mobile App Development**
+## 📱 DESENVOLVIMENTO MOBILE
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" title="Swift"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git & GitFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" title="CI/CD com Docker"/>
 </div>
 
 ---
 
-🗃️ **Database & Backend**
+## 🗃️ BANCO DE DADOS E BACK-END MOBILE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" title="SQLite"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" title="CoreData"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase"/>
 </div>
 
 ---
@@ -90,9 +88,9 @@ Atualmente, sou **Desenvolvedor iOS na Globo**, contribuindo em aplicativos usad
 
 🔍 **Curiosidades sobre mim**
 
-- 👨‍💻 Sou movido por propósito e tecnologia com impacto real.  
-- 🎙️ Já compartilhei aprendizados em meetups e grupos de estudo.  
-- 🎯 Minha meta em 2025: alcançar nível avançado em testes de código e algoritimos.
+- ⚽ **Flamengo acima de tudo** e 🔴⚫ **Bruno Henrique fazendo gols em todos.**
+- 🎬 **Assistir séries e filmes** aos fins de semana é o meu principal hobby. 
+- 🎯 **Minha meta em 2025**: alcançar nível avançado em **testes de código e algoritmos**.
 
 ---
 
